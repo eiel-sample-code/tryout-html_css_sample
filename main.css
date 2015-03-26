@@ -1,0 +1,30 @@
+body {
+    background-color: #DFEAA9;
+    padding: 0 20px;
+}
+
+nav {
+    float: left;
+    background-color: #43B47E;
+    width: 200px;
+}
+
+nav ul {
+    color: white;
+}
+
+article {
+    margin-left: 220px;
+    background-color: white;
+    padding: 10px 20px;
+    margin-right: 20px;
+}
+
+h1 {
+    color: #43B47E
+}
+
+article h1 {
+    border: solid 1px red;
+    padding: 4px 20px;
+}
